@@ -3,9 +3,9 @@ Contributors: dangoodman
 Tags: woocommerce, woocommerce states, woocommerce add states, woocommerce UK counties, woocommerce France provinces, woocommerce Portugal districts, woocommerce Austria states, woocommerce Ecuador provinces, woocommerce Egypt cities
 Requires PHP: 7.1
 Requires at least: 4.6
-Tested up to: 6.6
+Tested up to: 6.7
 WC requires at least: 5.0
-WC tested up to: 9.1
+WC tested up to: 9.4
 Stable tag: trunk
 
 Extends WooCommerce with additional locations, such as UK counties, France departments, etc.
@@ -370,6 +370,9 @@ If you have an idea about other locations to be included [let us know](http://wo
 
 
 == Changelog ==
+
+= 1.9.9 =
+* Tested with WordPress 6.7, WooCommerce 9.4.
 
 = 1.9.8 =
 * Tested with WordPress 6.6, WooCommerce 9.1.
