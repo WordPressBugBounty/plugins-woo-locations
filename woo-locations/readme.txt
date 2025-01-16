@@ -5,7 +5,7 @@ Requires PHP: 7.1
 Requires at least: 4.6
 Tested up to: 6.7
 WC requires at least: 5.0
-WC tested up to: 9.4
+WC tested up to: 9.5
 Stable tag: trunk
 
 Extends WooCommerce with additional locations, such as UK counties, France departments, etc.
@@ -370,6 +370,9 @@ If you have an idea about other locations to be included [let us know](http://wo
 
 
 == Changelog ==
+
+= 1.9.10 =
+* Tested with WooCommerce 9.5.
 
 = 1.9.9 =
 * Tested with WordPress 6.7, WooCommerce 9.4.
